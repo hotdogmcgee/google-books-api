@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ListItem component renders the UI as expected, 1`] = `
+<div
+  className="list-item"
+>
+  <h1>
+    Manhattan Beach
+  </h1>
+  <div
+    className="book-image"
+  >
+    <img
+      alt="book cover"
+      src="image"
+    />
+  </div>
+  <div
+    className="book-info"
+  >
+    <div
+      className="author-price-container"
+    >
+      <h2>
+        author: 
+        bill
+      </h2>
+      <h2>
+        price: 
+        $50
+      </h2>
+    </div>
+    <p>
+      lorem ipsum lalalallaa yep yep
+    </p>
+  </div>
+</div>
+`;
